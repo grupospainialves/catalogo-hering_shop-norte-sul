@@ -21,7 +21,6 @@ body {
     background-color: var(--bg-light);
     color: var(--text-color);
 }
-
 /* CABEÇALHO */
 .header-container {
     background-color: var(--hering-blue);
@@ -332,7 +331,7 @@ body {
     color: #FFFFFF;
     opacity: 1;
     font-weight: normal; /* Use 500 ou 600 para maior destaque */
-    font-size: 12px;  /* Opcional: defina o tamanho do texto */
+    font-size: 10px;  /* Opcional: defina o tamanho do texto */
 }
 /* Estilo base para desktop (alinhado lado a lado) */
 .logo-area {
@@ -341,35 +340,23 @@ body {
     flex-wrap: wrap; /* Permite que os elementos dobrem de linha se não couberem */
     gap: 10px;
 }
-
-/* Regras aplicadas apenas em telas de celular (até 768px) */
-@media (max-width: 768px) {
-    .header-container {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .logo-area {
-        flex-direction: column; /* Empilha os itens verticalmente */
-        align-items: center;
-    }
-
-    .info {
-        display: block;
-        margin-top: 8px;
-        font-size: 0.85rem; /* Ajusta o tamanho da fonte no mobile se necessário */
-    }
+/* Container da área da logo */
+.logo-area {
+    display: flex;
+    flex-direction: column; /* Empilha o topo e a frase em linhas separadas */
+    align-items: flex-start; /* Alinha tudo à esquerda */
+    gap: 6px; /* Espaçamento entre o topo e a frase */
 }
-.brand {
+
+/* Linha com a Logo + Nome da Loja */
+.header-top {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 15px; /* Espaço entre a logo e a divisória/nome */
 }
 
-@media (max-width: 768px) {
-    .logo-area {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
+/* Estilo da frase na linha de baixo */
+.info {
+    font-size: 0.85rem; /* Ajuste a dimensão do texto conforme desejar */
+    opacity: 0.9;
 }
