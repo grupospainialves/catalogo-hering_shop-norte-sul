@@ -5,7 +5,8 @@ const produtosData = [
     "Descrição": "Calca Masc Sarja",
     "Genero": "Masculino",
     "Preço_original": 269.99,
-    "Promoçao": 189.99
+    "Promoçao": 189.99,
+    "Coluna1": "LZ99EAISI"
   },
   {
     "ID_produto": "4AUCR0BEN",
@@ -13,7 +14,8 @@ const produtosData = [
     "Descrição": "Regata Fem Ribana",
     "Genero": "Feminino",
     "Preço_original": 99.99,
-    "Promoçao": 49.99
+    "Promoçao": 49.99,
+    "Coluna1": "4AUCR0BEN"
   },
   {
     "ID_produto": "H9VH1ASN",
@@ -21,7 +23,8 @@ const produtosData = [
     "Descrição": "Calca Fem Jeans Algodao",
     "Genero": "Feminino",
     "Preço_original": 199.99,
-    "Promoçao": 139.99
+    "Promoçao": 139.99,
+    "Coluna1": "H9VH1ASN"
   },
   {
     "ID_produto": "LZ7BHMJSI",
@@ -29,7 +32,8 @@ const produtosData = [
     "Descrição": "Calca Masc Sarja",
     "Genero": "Masculino",
     "Preço_original": 219.99,
-    "Promoçao": 129.99
+    "Promoçao": 129.99,
+    "Coluna1": "LZ7BHMJSI"
   },
   {
     "ID_produto": "0241EACEN",
@@ -37,7 +41,8 @@ const produtosData = [
     "Descrição": "Blusa Mm Fem Meia Malha",
     "Genero": "Feminino",
     "Preço_original": 69.99,
-    "Promoçao": 39.99
+    "Promoçao": 39.99,
+    "Coluna1": "0241EACEN"
   },
   {
     "ID_produto": "0241LNHEN",
@@ -45,7 +50,8 @@ const produtosData = [
     "Descrição": "Blusa Mm Fem Meia Malha",
     "Genero": "Feminino",
     "Preço_original": 79.99,
-    "Promoçao": 34.99
+    "Promoçao": 34.99,
+    "Coluna1": "0241LNHEN"
   },
   {
     "ID_produto": "02TQMD3EN",
@@ -53,7 +59,8 @@ const produtosData = [
     "Descrição": "Camiseta Mm Fem Malha Com Elastano",
     "Genero": "Feminino",
     "Preço_original": 89.99,
-    "Promoçao": 44.99
+    "Promoçao": 44.99,
+    "Coluna1": "02TQMD3EN"
   },
   {
     "ID_produto": "4AKMNM2EN",
@@ -61,7 +68,8 @@ const produtosData = [
     "Descrição": "Blusa Sm Fem Ribana",
     "Genero": "Feminino",
     "Preço_original": 59.99,
-    "Promoçao": 29.990000000000002
+    "Promoçao": 29.990000000000002,
+    "Coluna1": "4AKMNM2EN"
   },
   {
     "ID_produto": "4AL6M2HEN",
@@ -69,7 +77,8 @@ const produtosData = [
     "Descrição": "Regata Fem Ribana",
     "Genero": "Feminino",
     "Preço_original": 89.99,
-    "Promoçao": 44.99
+    "Promoçao": 44.99,
+    "Coluna1": "4AL6M2HEN"
   },
   {
     "ID_produto": "4EZ9M2HEN",
@@ -77,7 +86,8 @@ const produtosData = [
     "Descrição": "Blusa Mm Fem Meia Malha",
     "Genero": "Feminino",
     "Preço_original": 69.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "4EZ9M2HEN"
   },
   {
     "ID_produto": "4EZVNMCEN",
@@ -85,7 +95,8 @@ const produtosData = [
     "Descrição": "Blusa Mm Fem Ribana",
     "Genero": "Feminino",
     "Preço_original": 79.99,
-    "Promoçao": 29.99
+    "Promoçao": 29.99,
+    "Coluna1": "4EZVNMCEN"
   },
   {
     "ID_produto": "4F8727VEN",
@@ -93,7 +104,8 @@ const produtosData = [
     "Descrição": "Camiseta Mm Malha",
     "Genero": "Masculino",
     "Preço_original": 69.99,
-    "Promoçao": 34.99
+    "Promoçao": 34.99,
+    "Coluna1": "4F8727VEN"
   },
   {
     "ID_produto": "4F9MNMCEN",
@@ -101,7 +113,8 @@ const produtosData = [
     "Descrição": "Blusa Mm Fem Meia Malha",
     "Genero": "Feminino",
     "Preço_original": 99.99,
-    "Promoçao": 49.99
+    "Promoçao": 49.99,
+    "Coluna1": "4F9MNMCEN"
   },
   {
     "ID_produto": "4H2VYXLEN",
@@ -109,7 +122,8 @@ const produtosData = [
     "Descrição": "Blusa Mm Fem Interlok",
     "Genero": "Feminino",
     "Preço_original": 99.99,
-    "Promoçao": 59.989999999999995
+    "Promoçao": 59.989999999999995,
+    "Coluna1": "4H2VYXLEN"
   },
   {
     "ID_produto": "4HB51BEN",
@@ -117,7 +131,8 @@ const produtosData = [
     "Descrição": "Blusa Fem Meia Malha",
     "Genero": "Feminino",
     "Preço_original": 119.99,
-    "Promoçao": 69.99
+    "Promoçao": 69.99,
+    "Coluna1": "4HB51BEN"
   },
   {
     "ID_produto": "4KB3H26EN",
@@ -125,7 +140,8 @@ const produtosData = [
     "Descrição": "Camiseta Mm Masc Pique",
     "Genero": "Masculino",
     "Preço_original": 179.99,
-    "Promoçao": 109.99000000000001
+    "Promoçao": 109.99000000000001,
+    "Coluna1": "4KB3H26EN"
   },
   {
     "ID_produto": "4KB3HJZEN",
@@ -133,7 +149,8 @@ const produtosData = [
     "Descrição": "Camiseta Mm Masc Pique",
     "Genero": "Masculino",
     "Preço_original": 179.98999999999995,
-    "Promoçao": 109.99000000000001
+    "Promoçao": 109.99000000000001,
+    "Coluna1": "4KB3HJZEN"
   },
   {
     "ID_produto": "H4CTN10SN",
@@ -141,7 +158,8 @@ const produtosData = [
     "Descrição": "Bermuda Masc Sarja",
     "Genero": "Masculino",
     "Preço_original": 179.99,
-    "Promoçao": 89.99
+    "Promoçao": 89.99,
+    "Coluna1": "H4CTN10SN"
   },
   {
     "ID_produto": "HFH6YX8SN",
@@ -149,7 +167,8 @@ const produtosData = [
     "Descrição": "Blusa Mm Fem Viscose",
     "Genero": "Feminino",
     "Preço_original": 179.99,
-    "Promoçao": 89.99
+    "Promoçao": 89.99,
+    "Coluna1": "HFH6YX8SN"
   },
   {
     "ID_produto": "K0MTN0ASI",
@@ -157,7 +176,8 @@ const produtosData = [
     "Descrição": "Bermuda Fem Sarja C Elastano",
     "Genero": "Feminino",
     "Preço_original": 159.99,
-    "Promoçao": 69.99
+    "Promoçao": 69.99,
+    "Coluna1": "K0MTN0ASI"
   },
   {
     "ID_produto": "K6MX6USI",
@@ -165,7 +185,8 @@ const produtosData = [
     "Descrição": "Shorts Fem Peachtouch",
     "Genero": "Feminino",
     "Preço_original": 239.99,
-    "Promoçao": 149.99
+    "Promoçao": 149.99,
+    "Coluna1": "K6MX6USI"
   },
   {
     "ID_produto": "KCFRAX7SN",
@@ -173,7 +194,8 @@ const produtosData = [
     "Descrição": "Pijama Mm Fem Malha",
     "Genero": "Feminino",
     "Preço_original": 139.99,
-    "Promoçao": 79.99
+    "Promoçao": 79.99,
+    "Coluna1": "KCFRAX7SN"
   },
   {
     "ID_produto": "LZ7BN10SI",
@@ -181,7 +203,8 @@ const produtosData = [
     "Descrição": "Calca Masc Sarja",
     "Genero": "Masculino",
     "Preço_original": 219.99000000000004,
-    "Promoçao": 129.99
+    "Promoçao": 129.99,
+    "Coluna1": "LZ7BN10SI"
   },
   {
     "ID_produto": "LZCF1BSI",
@@ -189,7 +212,8 @@ const produtosData = [
     "Descrição": "Calca Masc Adulto Tecido Plano",
     "Genero": "Masculino",
     "Preço_original": 199.99,
-    "Promoçao": 129.99
+    "Promoçao": 129.99,
+    "Coluna1": "LZCF1BSI"
   },
   {
     "ID_produto": "49FPN10EN",
@@ -197,7 +221,8 @@ const produtosData = [
     "Descrição": "Camiseta Mm Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 49.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "49FPN10EN"
   },
   {
     "ID_produto": "4HFPN0AEN",
@@ -205,7 +230,8 @@ const produtosData = [
     "Descrição": "Camiseta Mm Meia Malha",
     "Genero": "Feminino",
     "Preço_original": 49.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "4HFPN0AEN"
   },
   {
     "ID_produto": "036H3VEN",
@@ -213,7 +239,8 @@ const produtosData = [
     "Descrição": "Camisa Polo Mm Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 129.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "036H3VEN"
   },
   {
     "ID_produto": "036HA2FEN",
@@ -221,7 +248,8 @@ const produtosData = [
     "Descrição": "Camisa Polo Mm Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 129.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "036HA2FEN"
   },
   {
     "ID_produto": "N3A7MD3EN",
@@ -229,7 +257,8 @@ const produtosData = [
     "Descrição": "Camisa Polo Mm Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 99.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "N3A7MD3EN"
   },
   {
     "ID_produto": "036H3REN",
@@ -237,7 +266,8 @@ const produtosData = [
     "Descrição": "Camisa Polo Mm Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 129.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "036H3REN"
   },
   {
     "ID_produto": "036HRY5EN",
@@ -245,7 +275,8 @@ const produtosData = [
     "Descrição": "Camisa Polo Mm Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 129.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "036HRY5EN"
   },
   {
     "ID_produto": "N3A7M2H07S",
@@ -253,7 +284,8 @@ const produtosData = [
     "Descrição": "Camisa Polo Mm Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 99.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "N3A7M2H07S"
   },
   {
     "ID_produto": "0111N1007S",
@@ -261,7 +293,8 @@ const produtosData = [
     "Descrição": "Camiseta Regata Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 59.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "0111N1007S"
   },
   {
     "ID_produto": "0199AFPEN",
@@ -269,7 +302,8 @@ const produtosData = [
     "Descrição": "Camiseta Regata Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 49.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "0199AFPEN"
   },
   {
     "ID_produto": "4AJEW18EN",
@@ -277,7 +311,8 @@ const produtosData = [
     "Descrição": "Camiseta Regata Masc Ribana",
     "Genero": "Masculino",
     "Preço_original": 89.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "4AJEW18EN"
   },
   {
     "ID_produto": "140MN0AEN",
@@ -285,7 +320,8 @@ const produtosData = [
     "Descrição": "Camiseta Mm Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 79.99,
-    "Promoçao": 49.989999999999995
+    "Promoçao": 49.989999999999995,
+    "Coluna1": "140MN0AEN"
   },
   {
     "ID_produto": "4ANYN0AEN",
@@ -293,7 +329,8 @@ const produtosData = [
     "Descrição": "Blusa Sm Fem Ribana",
     "Genero": "Feminino",
     "Preço_original": 89.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "4ANYN0AEN"
   },
   {
     "ID_produto": "4ANYN10EN",
@@ -301,7 +338,8 @@ const produtosData = [
     "Descrição": "Blusa Sm Fem Ribana",
     "Genero": "Feminino",
     "Preço_original": 89.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "4ANYN10EN"
   },
   {
     "ID_produto": "KHYN10VSN",
@@ -309,7 +347,8 @@ const produtosData = [
     "Descrição": "Vestido Fem Peachtouch",
     "Genero": "Feminino",
     "Preço_original": 239.99,
-    "Promoçao": 149.99
+    "Promoçao": 149.99,
+    "Coluna1": "KHYN10VSN"
   },
   {
     "ID_produto": "K5AP1ZSN",
@@ -317,7 +356,8 @@ const produtosData = [
     "Descrição": "Vestido Midi Fem Linho",
     "Genero": "Feminino",
     "Preço_original": 299.99,
-    "Promoçao": 149.99
+    "Promoçao": 149.99,
+    "Coluna1": "K5AP1ZSN"
   },
   {
     "ID_produto": "KMD2RX8SI",
@@ -325,7 +365,8 @@ const produtosData = [
     "Descrição": "Cinto Fem Pu Acessorio",
     "Genero": "Feminino",
     "Preço_original": 89.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "KMD2RX8SI"
   },
   {
     "ID_produto": "KMD2N10SI",
@@ -333,7 +374,8 @@ const produtosData = [
     "Descrição": "Cinto Fem Pu Acessorio",
     "Genero": "Feminino",
     "Preço_original": 139.99,
-    "Promoçao": 79.99
+    "Promoçao": 79.99,
+    "Coluna1": "KMD2N10SI"
   },
   {
     "ID_produto": "KB9F1ASN",
@@ -341,7 +383,8 @@ const produtosData = [
     "Descrição": "Cinto Masc Nao Textil",
     "Genero": "Masculino",
     "Preço_original": 119.99,
-    "Promoçao": 74.99
+    "Promoçao": 74.99,
+    "Coluna1": "KB9F1ASN"
   },
   {
     "ID_produto": "7BDQ1JEN",
@@ -349,7 +392,8 @@ const produtosData = [
     "Descrição": "Pijama Mm Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 139.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "7BDQ1JEN"
   },
   {
     "ID_produto": "76139YEN",
@@ -357,7 +401,8 @@ const produtosData = [
     "Descrição": "Pijama Mm Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 139.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "76139YEN"
   },
   {
     "ID_produto": "7CWQAXTEN",
@@ -365,7 +410,8 @@ const produtosData = [
     "Descrição": "Pijama Mm Fem Ribana",
     "Genero": "Feminino",
     "Preço_original": 139.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "7CWQAXTEN"
   },
   {
     "ID_produto": "7CE71UEN",
@@ -373,7 +419,8 @@ const produtosData = [
     "Descrição": "Pijama Ml Fem Malha",
     "Genero": "Feminino",
     "Preço_original": 239.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "7CE71UEN"
   },
   {
     "ID_produto": "7CZ7A2FEN",
@@ -381,7 +428,8 @@ const produtosData = [
     "Descrição": "Pijama Fem Malha",
     "Genero": "Feminino",
     "Preço_original": 179.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "7CZ7A2FEN"
   },
   {
     "ID_produto": "KFTJ2DSI",
@@ -389,7 +437,8 @@ const produtosData = [
     "Descrição": "Calcinha Fem Malha",
     "Genero": "Feminino",
     "Preço_original": 59.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "KFTJ2DSI"
   },
   {
     "ID_produto": "KFTJ2CSI",
@@ -397,7 +446,8 @@ const produtosData = [
     "Descrição": "Calcinha Fem Malha",
     "Genero": "Feminino",
     "Preço_original": 59.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "KFTJ2CSI"
   },
   {
     "ID_produto": "KFTK1SSI",
@@ -405,7 +455,8 @@ const produtosData = [
     "Descrição": "Sutia Fem Malha",
     "Genero": "Feminino",
     "Preço_original": 69.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "KFTK1SSI"
   },
   {
     "ID_produto": "KFT81QSI",
@@ -413,7 +464,8 @@ const produtosData = [
     "Descrição": "Lenco Fem Textil",
     "Genero": "Feminino",
     "Preço_original": 69.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "KFT81QSI"
   },
   {
     "ID_produto": "KFT81XSI",
@@ -421,7 +473,8 @@ const produtosData = [
     "Descrição": "Lenco Fem Textil",
     "Genero": "Feminino",
     "Preço_original": 69.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "KFT81XSI"
   },
   {
     "ID_produto": "77UCN10EN",
@@ -429,7 +482,8 @@ const produtosData = [
     "Descrição": "Kit Com 3 Cuecas Boxer Masc Malha",
     "Genero": "Masculino",
     "Preço_original": 119.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "77UCN10EN"
   },
   {
     "ID_produto": "KFR213WSI",
@@ -437,7 +491,8 @@ const produtosData = [
     "Descrição": "Bone Fem Textil",
     "Genero": "Feminino",
     "Preço_original": 89.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "KFR213WSI"
   },
   {
     "ID_produto": "K48R2BSI",
@@ -445,7 +500,8 @@ const produtosData = [
     "Descrição": "Camisa Masc Tecido Plano",
     "Genero": "Masculino",
     "Preço_original": 219.99,
-    "Promoçao": 149.99
+    "Promoçao": 149.99,
+    "Coluna1": "K48R2BSI"
   },
   {
     "ID_produto": "K5V913ZSI",
@@ -453,7 +509,8 @@ const produtosData = [
     "Descrição": "Camisa Fem Linho",
     "Genero": "Feminino",
     "Preço_original": 229.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "K5V913ZSI"
   },
   {
     "ID_produto": "KGNN2HSI",
@@ -461,7 +518,8 @@ const produtosData = [
     "Descrição": "Camisa Mm Masc Tecido Plano",
     "Genero": "Masculino",
     "Preço_original": 239.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "KGNN2HSI"
   },
   {
     "ID_produto": "K43NN0ASI",
@@ -469,7 +527,8 @@ const produtosData = [
     "Descrição": "Camisa Ml Masc Tecido Plano",
     "Genero": "Masculino",
     "Preço_original": 179.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "K43NN0ASI"
   },
   {
     "ID_produto": "KH0PN10SN",
@@ -477,7 +536,8 @@ const produtosData = [
     "Descrição": "Saia Fem Poliester",
     "Genero": "Feminino",
     "Preço_original": 219.99,
-    "Promoçao": 179.99
+    "Promoçao": 179.99,
+    "Coluna1": "KH0PN10SN"
   },
   {
     "ID_produto": "H9FL1CSN",
@@ -485,7 +545,8 @@ const produtosData = [
     "Descrição": "Calca Fem Jeans C Elastano",
     "Genero": "Feminino",
     "Preço_original": 239.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "H9FL1CSN"
   },
   {
     "ID_produto": "H9UN1ASN",
@@ -493,7 +554,8 @@ const produtosData = [
     "Descrição": "Calca Fem Jeans Algodao",
     "Genero": "Feminino",
     "Preço_original": 269.99,
-    "Promoçao": 189.99
+    "Promoçao": 189.99,
+    "Coluna1": "H9UN1ASN"
   },
   {
     "ID_produto": "H9V31BSN",
@@ -501,7 +563,8 @@ const produtosData = [
     "Descrição": "Calca Fem Jeans C Elastano",
     "Genero": "Feminino",
     "Preço_original": 199.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "H9V31BSN"
   },
   {
     "ID_produto": "H9FK1CSN",
@@ -509,7 +572,8 @@ const produtosData = [
     "Descrição": "Calca Skinny Fem Jeans C Elastano",
     "Genero": "Feminino",
     "Preço_original": 239.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "H9FK1CSN"
   },
   {
     "ID_produto": "HD351ASN",
@@ -517,7 +581,8 @@ const produtosData = [
     "Descrição": "Calca Masc Adulto Jeans",
     "Genero": "Masculino",
     "Preço_original": 269.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "HD351ASN"
   },
   {
     "ID_produto": "H1WN1CSN",
@@ -525,6 +590,7 @@ const produtosData = [
     "Descrição": "Calca Masc Adulto Jeans",
     "Genero": "Masculino",
     "Preço_original": 219.99,
-    "Promoçao": NaN
+    "Promoçao": NaN,
+    "Coluna1": "H1WN1CSN"
   }
 ];
